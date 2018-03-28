@@ -1,0 +1,2 @@
+/ImageEditorCSharp/bin/Debug
+/ImageEditorCSharp/obj/Debug/TempPE
