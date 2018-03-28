@@ -1,0 +1,18 @@
+c:\users\zahid\documents\visual studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\bin\Debug\ImageEditorCSharp.exe.config
+c:\users\zahid\documents\visual studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\bin\Debug\ImageEditorCSharp.exe
+c:\users\zahid\documents\visual studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\bin\Debug\ImageEditorCSharp.pdb
+c:\users\zahid\documents\visual studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.Properties.Resources.resources
+c:\users\zahid\documents\visual studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.csproj.GenerateResource.Cache
+c:\users\zahid\documents\visual studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.exe
+c:\users\zahid\documents\visual studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.pdb
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.ZMain.resources
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\bin\Debug\ImageEditorCSharp.exe.config
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.exe
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.pdb
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\bin\Debug\ImageEditorCSharp.exe
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\bin\Debug\ImageEditorCSharp.pdb
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.ZMain.resources
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.Properties.Resources.resources
+C:\Users\Zahid\Documents\Visual Studio 2012\Projects\Image Editor\ImageEditorCSharp\ImageEditorCSharp\obj\Debug\ImageEditorCSharp.csproj.GenerateResource.Cache
